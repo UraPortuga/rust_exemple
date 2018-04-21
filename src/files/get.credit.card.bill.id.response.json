@@ -1,0 +1,43 @@
+{
+    "id": "54973152-15142689",
+    "nextBillDate": "07/11/2016",
+    "dueDate": "20/11/2016",
+    "autoDebitCheckingAccount": false,
+    "transactions": [
+      {
+        "id": "54973152",
+        "dateTime": "22.06.2016",
+        "installmentNumber": 5,
+        "creditCardNumber": "1234********5678",
+        "description": "AZUL LINHAS A PARC 05/10 BARUERI     BR",
+        "holderNumber": 1,
+        "installmentsAmount": 10,
+        "pointsAmount": 61,
+        "foreignCurrencyValue": 0,
+        "value": 27.52
+      }
+    ],
+    "transactionsAmount": 5,
+    "paymentYearlyEffectiveCost": 71.22,
+    "withdrawYearlyEffectiveCost": 197.03,
+    "paymentExtraIof": 0.38,
+    "installmentExtraIof": 0.38,
+    "withdrawExtraIof": 0.38,
+    "paymentDaylyIof": 0.0082,
+    "installmentDaylyIof": 0.0082,
+    "withdrawDaylyIof": 0.0082,
+    "jamValue": 16.28,
+    "fineValue": 2,
+    "paymentValue": 2263.33,
+    "minPaymentValue": 339.5,
+    "previousBalance": 2353.74,
+    "usdBalance": 0,
+    "balance": 2263.33,
+    "paymentYearlyFee": 69.39,
+    "paymentMonthlyFee": 4.49,
+    "installmentYearlyFee": 69.39,
+    "installmentMonthlyFee": 4.49,
+    "withdrawYearlyFee": 84.37,
+    "withdrawMonthlyFee": 9.1
+  }
+  
